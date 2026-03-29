@@ -134,9 +134,7 @@ Test double-booking: fire two concurrent schedule requests to the same slot — 
 
  Phase 1 — JWT Auth, Entities, DB setup
  Phase 2 — Job, Application, Panel, Interview scheduling
- Phase 3 — Feedback, Offers, Email notifications
- Phase 4 — React frontend (HR, Panel, Candidate portals)
- Phase 5 — Deployment (AWS / Vercel)
+ Phase 3 — Feedback, Offers
 
 
 🤝 Connect
