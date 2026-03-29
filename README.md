@@ -4,16 +4,6 @@ A full-stack web application that automates the end-to-end interview process —
 Eliminates manual Excel tracking, prevents double bookings, and streamlines communication between HR, Interview Panels, and Candidates.
 
 
-🚀 Live Demo
-
-Coming soon / Add your deployment link here
-
-
-📸 Screenshots
-
-Add screenshots of your HR Dashboard, Candidate Portal, and Panel Availability Calendar here
-
-
 ✨ Features
 👔 HR
 
